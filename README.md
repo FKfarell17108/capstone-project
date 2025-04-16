@@ -49,7 +49,7 @@
 ## 📚 Dokumentasi Tambahan
 
 - 📄 Slide Presentasi: [Slide Canva](https://www.canva.com/design/DAGkV4OB1RQ/vvU7Hs3WzygiE-mVbK_hnQ/edit?utm_content=DAGkV4OB1RQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-- 🎥 Video Presentasi: [Link YouTube]
+- 🎥 Video Presentasi: [YouTube](https://youtu.be/mFeg3-iOb7A?si=d_lXEFgIKJPIF9jU)
 - 📖 Dataset: [Dataset Roboflow](https://universe.roboflow.com/skripsi-aji/klasifikasi-sampah-organik-dan-anorganik )
 - 📘 Panduan Instalasi & Integrasi tersedia di masing-masing folder (`README.md` per sub-folder)
 
