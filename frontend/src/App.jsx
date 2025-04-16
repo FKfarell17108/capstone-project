@@ -10,6 +10,7 @@ import UploadImage from "./components/UploadImage";
 import PointsDashboard from "./components/PointDashbord";
 import InteractiveEducation from "./components/InteractiveEducation";
 import ArticlePage from "./components/ArticlePage";
+import { Hero } from "./components/Hero";
 
 function App() {
   const [isLoggedIn, setIsLoggedIn] = useState(false);

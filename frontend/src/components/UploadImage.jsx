@@ -23,7 +23,7 @@ export default function UploadImage() {
     const formData = new FormData();
     formData.append("file", selectedFile);
 
-    const response = await axios.post("http://127.0.0.1:5000/predict", formData, {
+    const response = await axios.post("https://puunnnpun-ml-crashtocash.hf.space/predict", formData, {
       headers: {
         "Content-Type": "multipart/form-data",
       },
@@ -50,13 +50,7 @@ export default function UploadImage() {
           Sampah Bukan Sekadar Limbah—Ini Peluang...
         </p>
 
-        {/* File Input */}
-        <input
-          type="file"
-          accept="image/png, image/jpeg"
-          onChange={handleFileChange}
-          className="mb-4"
-        />
+
 
         <button
           onClick={handleUpload}
@@ -72,11 +66,21 @@ export default function UploadImage() {
             alt="upload"
             className="w-14 h-14 mx-auto mb-4"
           />
-          <p className="font-semibold text-gray-800">
-            <span className="text-black">Drag & Drop</span> or{" "}
-            <span className="text-blue-600 cursor-pointer">browse</span>
-          </p>
-          <p className="text-sm text-gray-500 mt-1">JPEG, JPG, PNG</p>
+
+            <div className="text-center text-gray-800 flex flex-col items-center">
+              <input
+                type="file"
+                accept="image/png, image/jpeg"
+                onChange={handleFileChange}
+                className="bg-blue-600 hover:bg-blue-700 text-white px-6 py-3 rounded-full text-lg shadow-xl transition mb-8 text-center"
+              />
+              <p>
+                <span className="text-black">Drag & Drop</span> or{" "}
+                <span className="text-blue-600 cursor-pointer font-semibold ">browse</span>
+              </p>
+            </div>
+
+          <p className="text-sm text-gray-500 mt-1 font-semibold ">JPEG, JPG, PNG</p>
         </div>
       </div>
 
