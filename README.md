@@ -40,9 +40,9 @@
 
 ## 🌐 Deployment
 
-- **Frontend (React.js)**: Belum di Hosted
+- **Frontend (React.js)**: [Vercel](https://trash-to-cash.vercel.app/)
 - **Model ML**: [Hugging Face](https://puunnnpun-ml-crashtocash.hf.space/)
-- **Backend (API)**: Hosted secara lokal
+- **Backend (API)**: [Railway](https://capstone-project-febe-production.up.railway.app/)
 
 ---
 
