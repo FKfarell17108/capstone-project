@@ -16,14 +16,14 @@
 
 ## 👥 Tim Trash to Cash
 
-| Nama | Role |
-|------|------|
-| **Farell Kurniawan** | Machine Learning |
-| **Farel Puna Nugraha** | Machine Learning |
-| **Siti Nur Hanifah** | Back-End |
-| **Muhammad Sofi Fauzan** | Front-End |
-| **Aurell Ghania Ramadhani** | Front-End |
-| **Andini Eka Lisnawati** | Front-End |
+| ID | Nama                        | Role             |
+|----|-----------------------------|------------------|
+| MS007D5Y0550 | **Farell Kurniawan**        | Machine Learning |
+| MS099D5Y0534 | **Farel Puna Nugraha**      | Machine Learning |
+| FS109D5X0185 | **Siti Nur Hanifah**        | Back-End         |
+| FS007D5Y0006 | **Muhammad Sofi Fauzan**    | Front-End        |
+| FS010D5X0177 | **Aurell Ghania Ramadhani** | Front-End        |
+| FS014D5X0012 | **Andini Eka Lisnawati**    | Front-End        |
 
 ---
 
